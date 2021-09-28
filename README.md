@@ -20,7 +20,7 @@ There are four files associated with this project:
 - `AZDIAS_Feature_Summary.csv`: Summary of feature attributes for demographics data; 85 features (rows) x 4 columns
 - `Identify_Customer_Segments.ipynb`: Jupyter Notebook subdivided into sections with guidelines for completing the project. 
 
-### Acknowledgments
+### Authors, Licencing and Acknowledgments
 Many thanks to Udacity for giving me an opportunity to try out real world problems and to Arvato for the project and data provided. Many thanks to Udacity mentors for their help as well as the Data Scientists who have inspired and provided insights to me through Github and StackOverflow.
 
 This project was completed as part of the [Udacity Intro to Machine Learning with TensorFlow Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230) program.
